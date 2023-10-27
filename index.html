@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.3.0/css/all.min.css">
+    <link rel="stylesheet" href="style.css">
+    <title>Página de Orçamento | Daniel Front</title>
+</head>
+
+<body>
+    <div class="wrapper">
+        <div class="container">
+            <div class="sub-container">
+                <div class="total-amount-container">
+                    <h3>Orçamento</h3>
+                    <p class="hide error" id="budget-error">
+                        O valor não pode estar vazio ou negativo!
+                    </p>
+                    <input type="number" id="total-amount" placeholder="Insira o valor total">
+                    <button class="submit" id="total-amount-button">
+                        Definir orçamento
+                    </button>
+                </div>
+
+                <div class="user-amount-container">
+                    <h3>Despesas</h3>
+                    <p class="hide error" id="product-title-error">
+                        Título e custos não podem ficar vazios!
+                    </p>
+                    <input type="text" class="product-title" id="product-title"
+                        placeholder="Insira o título do produto">
+                    <input type="number" id="user-amount" placeholder="Insira o custo do produto">
+                    <button class="submit" id="check-amount">Verificar o valor</button>
+                </div>
+            </div>
+
+            <div class="output-container flex-space">
+                <div>
+                    <p>Totalizando</p>
+                    <span id="amount">
+                        0
+                    </span>
+                </div>
+                <div>
+                    <p>Despesas</p>
+                    <span id="expenditure-value">
+                        0
+                    </span>
+                </div>
+                <div>
+                    <p>Equilíbrio</p>
+                    <span id="balance-amount">
+                        0
+                    </span>
+                </div>
+            </div>
+        </div>
+
+        <div class="list">
+            <h3>Lista de despesas</h3>
+            <div class="list-container" id="list"></div>
+        </div>
+
+    </div>
+
+    <script src="script.js"></script>
+    </body>
+    </html>
