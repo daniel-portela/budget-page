@@ -8,7 +8,7 @@
 
 <p>Esse projeto consiste em uma página completa de orçamento que contém verificação de valores, despesas e equilíbrio.</p>
 
-<a href="https://pagebudget.netlify.app/" target_blank><strong>Demonstração ao vivo</strong></a>
+<a href="https://pagebudget.netlify.app/" target="_blank"><strong>Demonstração ao vivo</strong></a>
 </div><br>
 
 
