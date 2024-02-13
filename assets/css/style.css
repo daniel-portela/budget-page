@@ -102,6 +102,7 @@ body {
     border-radius: 0.3em;
     cursor: pointer;
 }
+
 .submit:hover {
     background-color: #00279b;
     transition: 0.6s;
