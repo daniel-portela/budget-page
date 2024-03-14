@@ -11,13 +11,13 @@ Budget-page - Página de orçamentos em JavaScript
 <a href="https://pagebudget.netlify.app/" target="_blank"><strong>Demonstração ao vivo</strong></a>
 </div><br>
 
-![alt text](preview.png)
+![preview](https://github.com/daniel-portela/Budget-page/assets/110783805/316e2cbe-f4c9-404f-9c73-1ef216bd28bc)
 
-![alt text](preview-falha.png)
+![preview-falha](https://github.com/daniel-portela/Budget-page/assets/110783805/78bba8d8-7e21-4a95-a7d8-080a481e8a47)
 
-![alt text](preview-result.png)
+![preview-result](https://github.com/daniel-portela/Budget-page/assets/110783805/05ae78d8-587e-46ef-85a2-c6d6599536b9)
 
-![alt text](preview-responsive.jpg)
+![preview-responsive](https://github.com/daniel-portela/Budget-page/assets/110783805/111ad9c4-72ad-4e78-94b2-7e5a72e00663)
 
 Tecnologias utilizadas
 
