@@ -68,9 +68,11 @@ Clique em verificar valor
 
 Os valores, títulos e preços dos produtos serão exibidos abaixo da lista de despesas.
 
-<br><b>Contato:</b>
+<b>Contato:</b>
 
-<p>Se você quiser entrar em contato comigo, sinta-se a vontade.</p> 
+Se você tiver alguma dúvida, sugestão ou interesse em colaborar, não hesite em me contatar.
+
+Email: <a href="mailto:danielportela.ti@gmail.com">danielportela.ti@gmail.com</a>
 
 <a href="https://linkedin.com/in/danielengineer" target="_blank">
   <img align="center" src="https://img.shields.io/badge/ - LinkedIn-05122A?style=flat&logo=linkedin" alt="linkedin"/>
