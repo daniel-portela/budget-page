@@ -77,7 +77,7 @@ Email: <a href="mailto:danielportela.ti@gmail.com">danielportela.ti@gmail.com</a
 <a href="https://linkedin.com/in/danielengineer" target="_blank">
   <img align="center" src="https://img.shields.io/badge/ - LinkedIn-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
- <a href="https://instagram.com/danielengineer_" target="_blank">
+ <a href="https://instagram.com/danielportelati" target="_blank">
  <img align="center" src="https://img.shields.io/badge/ - Instagram-05122A?style=flat&logo=instagram" alt="instagram"/>
 </a>
  <a href="https://wa.me/77999109489" target="_blank">
