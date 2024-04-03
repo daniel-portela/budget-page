@@ -32,7 +32,7 @@ As despesas adicionadas são exibidas na lista de despesas abaixo, com opções 
 
 - O saldo restante é atualizado automaticamente conforme você adiciona ou remove despesas.
 Isso permite que você acompanhe facilmente quanto dinheiro ainda está disponível dentro do seu orçamento.
-<hr>
+<hr><br>
 
 🛠️ <b>Como utilizar?</b>
 
@@ -56,7 +56,7 @@ Os valores, títulos e preços dos produtos serão exibidos abaixo da lista de d
 
 🔒 <b>Licença</b>
 
-Este projeto está sob [LISENCE](LICENSE), o que significa que você não tem permissão para usar, modificar e distribuir o código conforme desejar, desde que mantenha o aviso de direitos autorais e a licença. Contudo, se você encontrar bugs, tiver sugestões de melhorias ou quiser contribuir de alguma forma, ficarei feliz em receber seu feedback.
+Este projeto está sob [LICENSE](LICENSE), o que significa que você não tem permissão para usar, modificar e distribuir o código conforme desejar, desde que mantenha o aviso de direitos autorais e a licença. Contudo, se você encontrar bugs, tiver sugestões de melhorias ou quiser contribuir de alguma forma, ficarei feliz em receber seu feedback.
 
 <b>Contato:</b>
 
