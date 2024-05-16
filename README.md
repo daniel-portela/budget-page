@@ -3,8 +3,6 @@
 <a href="https://pagebudget.netlify.app/" target="_blank">Budget-page</a> - Página de orçamentos em JavaScript
 
 <p>A Página de Orçamento é uma ferramenta simples e eficaz para gerenciar suas finanças pessoais. Desenvolvida com HTML, CSS e JavaScript, esta página permite que você defina um orçamento total e acompanhe suas despesas diárias de forma organizada e intuitiva.</p>
-
-<a href="https://pagebudget.netlify.app/" target="_blank">Demonstração ao vivo</a>
 </div><br>
 
 ![preview](https://github.com/daniel-portela/Budget-page/assets/110783805/316e2cbe-f4c9-404f-9c73-1ef216bd28bc)
@@ -58,7 +56,7 @@ Os valores, títulos e preços dos produtos serão exibidos abaixo da lista de d
 
 Este projeto está sob [LICENSE](LICENSE), o que significa que você não tem permissão para usar, modificar e distribuir o código conforme desejar, desde que mantenha o aviso de direitos autorais e a licença. Contudo, se você encontrar bugs, tiver sugestões de melhorias ou quiser contribuir de alguma forma, ficarei feliz em receber seu feedback.
 
-<b>Contato:</b>
+✉️ <b>Contato:</b>
 
 Se você tiver alguma dúvida, sugestão ou interesse em colaborar, não hesite em me contatar.
 
